@@ -1,0 +1,10 @@
+****************CHANGES****************
+
+1. Converted our RNN to a LSTM. This change was made after receiving feedback from Dr. Pamplona Segundo. After reviewing the lectures, the notes, and my own personal research
+it became exceedingly obvious that the LSTM would be best for the text analysis as it addresses the text as a whole and handles longer text more efficiently.
+
+2. Redid the presentation powerpoint to match the new LSTM model.
+
+3. Added more information to the powerpoint that was previously missing.
+
+***************************************
